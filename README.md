@@ -1,3 +1,3 @@
 # Matplotlib
 
-Practice my Matplotlib
+Matplotlib practice session
